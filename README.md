@@ -45,3 +45,9 @@ Github issue tracker is a powerful search tool. You can filter by label and do s
 Make sure you specify the right labels. Example:
 
 ![Example search](https://cloud.githubusercontent.com/assets/872296/11227594/9114df00-8d65-11e5-83a4-b53611ea53c1.png)
+
+## Examples
+
+  * Searching resolved questions (status=closed) that are about lists: [?q=is%3Aissue+is%3Aclosed+label%3At-lists](https://github.com/rmotr/pyp-questions/issues?q=is%3Aissue+is%3Aclosed+label%3At-lists)
+  * Searching open questions for `class-2`: [?q=is%3Aopen+is%3Aissue+label%3Aclass-2](https://github.com/rmotr/pyp-questions/issues?q=is%3Aopen+is%3Aissue+label%3Aclass-2)
+  * Searching for open questions about `t-strings`, from `class-1` that have the `title` text in it: [?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3At-strings+label%3Aclass-1+title](https://github.com/rmotr/pyp-questions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3At-strings+label%3Aclass-1+title)
