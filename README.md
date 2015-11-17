@@ -44,3 +44,4 @@ Example, adding topics to your question while you're creating it:
 Github issue tracker is a powerful search tool. You can filter by label and do standard full-text search. By default all questions that have been answered will be [marked as closed](https://github.com/rmotr/pyp-questions/issues?q=is%3Aissue+is%3Aclosed).
 Make sure you specify the right labels. Example:
 
+![Example search](https://cloud.githubusercontent.com/assets/872296/11227594/9114df00-8d65-11e5-83a4-b53611ea53c1.png)
