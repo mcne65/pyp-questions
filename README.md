@@ -35,10 +35,12 @@ Is your question a genuine question? Or you're having an error and you need help
 
 Just add the number of the class so we can go through that in the next class. Example, if you're reading topics for `class-3` that will take place next week, add the `class-3` label.
 
+Example, adding topics to your question while you're creating it:
+
+![Example creation and labeling](https://cloud.githubusercontent.com/assets/872296/11227509/2ab3aa52-8d65-11e5-8b5e-c4ad77469906.png)
+
 ## Searching for questions
 
 Github issue tracker is a powerful search tool. You can filter by label and do standard full-text search. By default all questions that have been answered will be [marked as closed](https://github.com/rmotr/pyp-questions/issues?q=is%3Aissue+is%3Aclosed).
 Make sure you specify the right labels. Example:
-
-![Example search](https://cloud.githubusercontent.com/assets/872296/11227509/2ab3aa52-8d65-11e5-8b5e-c4ad77469906.png)
 
