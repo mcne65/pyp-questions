@@ -2,9 +2,13 @@
 
 This repo has no code. We just use the [issue tracker](https://github.com/rmotr/pyp-questions/issues).
 
+![Example question](https://cloud.githubusercontent.com/assets/872296/11227477/f9c0f846-8d64-11e5-825a-1cc1024ed08c.png)
+
+**Example question:** [How to create a dictionary from a list of tuples?](https://github.com/rmotr/pyp-questions/issues/1)
+
 ## How to ask a question
 
-To ask a question you have to [submit a new issue](https://github.com/rmotr/pyp-questions/issues/new). **Please make sure your question is not already answered by [searching for the issue](#searching-for-questions) beforehand. If it hasn't been asked yet please go ahead and create a new one.
+To ask a question you have to [submit a new issue](https://github.com/rmotr/pyp-questions/issues/new). **Please make sure your question is not already answered by [searching for the issue](#searching-for-questions) beforehand**. If it hasn't been asked yet please go ahead and create a new one.
 
 If you're currently participating in one of our courses you can set labels to provide more details about your question. The types of labels you can use are:
 
@@ -34,5 +38,7 @@ Just add the number of the class so we can go through that in the next class. Ex
 ## Searching for questions
 
 Github issue tracker is a powerful search tool. You can filter by label and do standard full-text search. By default all questions that have been answered will be [marked as closed](https://github.com/rmotr/pyp-questions/issues?q=is%3Aissue+is%3Aclosed).
-Make sure you specify the right labels. **TODO: Example and Screenshot**.
+Make sure you specify the right labels. Example:
+
+![Example search](https://cloud.githubusercontent.com/assets/872296/11227509/2ab3aa52-8d65-11e5-8b5e-c4ad77469906.png)
 
