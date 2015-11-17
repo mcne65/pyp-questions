@@ -4,7 +4,7 @@ This repo has no code. We just use the [issue tracker](https://github.com/rmotr/
 
 ## How to ask a question
 
-To ask a question you have to [submit a new issue](https://github.com/rmotr/pyp-questions/issues/new). **Please make sure your question is not already answered by [searching for the issue](#searching-the-issue) beforehand. If it hasn't been asked yet please go ahead and create a new one.
+To ask a question you have to [submit a new issue](https://github.com/rmotr/pyp-questions/issues/new). **Please make sure your question is not already answered by [searching for the issue](#searching-for-questions) beforehand. If it hasn't been asked yet please go ahead and create a new one.
 
 If you're currently participating in one of our courses you can set labels to provide more details about your question. The types of labels you can use are:
 
