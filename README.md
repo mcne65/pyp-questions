@@ -50,4 +50,4 @@ Make sure you specify the right labels. Example:
 
   * Searching resolved questions (status=closed) that are about lists: [?q=is%3Aissue+is%3Aclosed+label%3At-lists](https://github.com/rmotr/pyp-questions/issues?q=is%3Aissue+is%3Aclosed+label%3At-lists)
   * Searching open questions for `class-2`: [?q=is%3Aopen+is%3Aissue+label%3Aclass-2](https://github.com/rmotr/pyp-questions/issues?q=is%3Aopen+is%3Aissue+label%3Aclass-2)
-  * Searching for open questions about `t-strings`, from `class-1` that have the `title` text in it: [?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3At-strings+label%3Aclass-1+title](https://github.com/rmotr/pyp-questions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3At-strings+label%3Aclass-1+title)
+  * Searching for open questions about `t-strings`, from `class-1` that have the `title` text in it: [?q=is%3Aopen+is%3Aissue+label%3At-strings+label%3Aclass-1+title](https://github.com/rmotr/pyp-questions/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3At-strings+label%3Aclass-1+title)
